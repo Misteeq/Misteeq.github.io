@@ -1,7 +1,7 @@
 # Misteeq.github.io
-### My projects
+## My projects
 
-1. Bootstrap Projects
+### 1. Bootstrap Projects
 ***
 * [Museum of Candy](https://misteeq.github.io/Museum_of_candy/)
 
