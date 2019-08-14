@@ -1,7 +1,14 @@
 # Misteeq.github.io
 ## My projects
 
-### 1. Bootstrap Projects
+### 1. Grid Projects
+
+* [Acme Web Solutions](https://misteeq.github.io/grid_landing/)
+
+* [Netfix Landing ](https://misteeq.github.io/netflixLanding/) 
+***
+
+### 2. Bootstrap Projects
 
 * [Museum of Candy](https://misteeq.github.io/Museum_of_candy/)
 
@@ -10,7 +17,4 @@
 * [Photo Gallery](https://misteeq.github.io/photo_gallery/)
 
 * [Purrfect Match](https://misteeq.github.io/purrrfect_match/)    
-***
-### 2. Grid Projects
 
-* [Acme Web Solutions](https://misteeq.github.io/grid_landing/)
