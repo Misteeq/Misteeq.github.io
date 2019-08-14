@@ -1,2 +1,2 @@
 # Misteeq.github.io
-Netfix Landing Page
+My projects
