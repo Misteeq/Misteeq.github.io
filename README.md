@@ -1,6 +1,10 @@
 # Misteeq.github.io
 My projects
 
-* [Museum of Candy](https://misteeq.github.io/Museum_of_candy/) - Bootstrap 4 project
++ Bootstrap projects
 
-* [Pattern](https://misteeq.github.io/pattern_project/) - Bootstrap 4 project
+* [Museum of Candy](https://misteeq.github.io/Museum_of_candy/)
+
+* [Pattern](https://misteeq.github.io/pattern_project/)
+
+* [Photo Gallery](https://misteeq.github.io/photo_gallery/)
