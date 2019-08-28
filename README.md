@@ -1,14 +1,14 @@
 # Misteeq.github.io
 ## My projects
 
-### 1. Grid Projects
+
+* [Squeeze] (https://misteeq.github.io/respsite/)
 
 * [Acme Web Solutions](https://misteeq.github.io/grid_landing/)
 
 * [Netfix Landing ](https://misteeq.github.io/netflixLanding/) 
 ***
 
-### 2. Bootstrap Projects
 
 * [Museum of Candy](https://misteeq.github.io/Museum_of_candy/)
 
