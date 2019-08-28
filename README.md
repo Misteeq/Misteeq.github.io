@@ -2,7 +2,7 @@
 ## My projects
 
 
-* [Squeeze] (https://misteeq.github.io/respsite/)
+*  (https://misteeq.github.io/respsite/)
 
 * [Acme Web Solutions](https://misteeq.github.io/grid_landing/)
 
