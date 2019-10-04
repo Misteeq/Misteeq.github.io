@@ -7,7 +7,6 @@
 * [Acme Web Solutions](https://misteeq.github.io/grid_landing/)
 
 * [Netfix Landing ](https://misteeq.github.io/netflixLanding/) 
-***
 
 
 * [Museum of Candy](https://misteeq.github.io/Museum_of_candy/)
